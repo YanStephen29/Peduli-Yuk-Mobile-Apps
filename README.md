@@ -4,7 +4,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-**PeduliYuk** adalah aplikasi mobile berbasis Flutter yang memfasilitasi donasi barang bekas antara masyarakat dan organisasi. Aplikasi ini dirancang untuk mempermudah proses donasi, distribusi, dan tracking bantuan sosial dengan sistem yang terintegrasi.
+**PeduliYuk** adalah aplikasi mobile berbasis Flutter yang memiliki tujuan untuk mengurangi dampak dari fast fashion yang ada di Indonesia dengan memfasilitasi donasi barang bekas antara masyarakat dan organisasi. Aplikasi ini dirancang untuk mempermudah proses donasi, distribusi, dan tracking bantuan sosial dengan sistem yang terintegrasi.
 
 ## 📋 Daftar Isi
 
@@ -266,7 +266,6 @@ Waiting For Approval → Waiting For Receiver → Found Receiver
 - **Project Manager & Backend**: Mengelola proyek, mengembangkan API PHP, dan database MySQL
 - **Frontend Developers**: Mengembangkan UI/UX aplikasi Flutter dan integrasi dengan backend
 - **Quality Assurance**: Testing aplikasi, bug reporting, dan memastikan kualitas aplikasi
-- **Observer**: Kritikus
 
 Proyek ini dikembangkan sebagai tugas besar mata kuliah Mobile Programming dengan fokus pada pengembangan aplikasi donasi digital yang dapat membantu masyarakat dalam berbagi dan menerima bantuan.
 
