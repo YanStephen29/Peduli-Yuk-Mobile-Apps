@@ -259,7 +259,7 @@ Waiting For Approval → Waiting For Receiver → Found Receiver
 | **YanStephen29** | Project Manager & Backend Developer | [@YanStephen29](https://github.com/YanStephen29) |
 | **FerdinandTJ** | Backend Developer | [@FerdinandTJ](https://github.com/FerdinandTJ) |
 | **nurhumam** | Frontend Developer | [@nurhumam](https://github.com/nurhumam) |
-| **Haekal1243** | Quality Assurance & Tester | [@Haekal1243](https://github.com/Haekal1243) |
+| **Haekal1243** | Frontend Developer, Quality Assurance & Tester | [@Haekal1243](https://github.com/Haekal1243) |
 | **ArielYosua** | Frontend Developer | [@ArielYosua](https://github.com/ArielYosua) |
 
 ### 🎯 Kontribusi Tim
