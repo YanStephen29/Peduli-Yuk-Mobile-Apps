@@ -257,10 +257,10 @@ Waiting For Approval → Waiting For Receiver → Found Receiver
 | Nama | Role | GitHub |
 |------|------|---------|
 | **YanStephen29** | Project Manager & Backend Developer | [@YanStephen29](https://github.com/YanStephen29) |
-| **FerdinandTJ** | Frontend Developer | [@FerdinandTJ](https://github.com/FerdinandTJ) |
+| **FerdinandTJ** | Backend Developer | [@FerdinandTJ](https://github.com/FerdinandTJ) |
 | **nurhumam** | Frontend Developer | [@nurhumam](https://github.com/nurhumam) |
 | **Haekal1243** | Quality Assurance & Tester | [@Haekal1243](https://github.com/Haekal1243) |
-| **ArielYosua** | Observer | [@ArielYosua](https://github.com/ArielYosua) |
+| **ArielYosua** | Frontend Developer | [@ArielYosua](https://github.com/ArielYosua) |
 
 ### 🎯 Kontribusi Tim
 - **Project Manager & Backend**: Mengelola proyek, mengembangkan API PHP, dan database MySQL
